@@ -1,5 +1,5 @@
 # JourneyToTheFFT
-A blog about my journey to learning Fourier algorithms and eventually implementing the FFT
+A blog about my journey to learn Fourier algorithms and eventually implementing the FFT
 
 1. Correlation function by integration
 
