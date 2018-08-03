@@ -21,7 +21,7 @@ A blog about my journey to learn Fourier algorithms and eventually implementing 
 
   ![Alt text](https://user-images.githubusercontent.com/14359191/43619004-87a56382-9680-11e8-972a-0978d3b7bb3f.gif)
 
-  ![Alt text] (https://user-images.githubusercontent.com/14359191/43619005-88658054-9680-11e8-8309-5f689b2c7f0c.gif)
+  ![Alt text](https://user-images.githubusercontent.com/14359191/43619005-88658054-9680-11e8-8309-5f689b2c7f0c.gif)
 
   Really weird stuff happens with complex numbers when you perform simple operations on them.
 
