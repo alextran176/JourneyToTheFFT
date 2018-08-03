@@ -1,5 +1,5 @@
 # JourneyToTheFFT
-A blog about my journey to learn Fourier algorithms and eventually implementing the FFT
+A blog about my journey to learn Fourier algorithms and eventually implementing the FFT.  All animations are done on Matlab.  I know it seems like cheating to use Matlab, but its a really intuitive visualization software that easily manages complex numbers.  I'm still deciding whether to do the final implementation of the FFT in C or in some sort of WebGL or Javascript script that I can run in the browser.  
 
 1. Correlation function by integration
 
