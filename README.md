@@ -10,7 +10,8 @@ A blog about my journey to learn Fourier algorithms and eventually implementing 
 4. Convolution algorithm
 
 5. The Fourier Series and its Motivations
-A key part that I never really understood, mostly because I am mathematically lazy, is that complex representations of functions ARE STILL REAL.  The Complex Fourier Series breaks down the input function into a sum of exponentials with increasing frequency.  Even though there are imaginary numbers in the function, the resulting values are REAL.  I'm still a noob at imaginary numbers, so my intuition isn't great at seeing that even though a function can contain imaginary numbers, the resulting values can all be real. 
+
+  A key part that I never really understood, mostly because I am mathematically lazy, is that complex representations of functions ARE STILL REAL.  The Complex Fourier Series breaks down the input function into a sum of exponentials with increasing frequency.  Even though there are imaginary numbers in the function, the resulting values are REAL.  I'm still a noob at imaginary numbers, so my intuition isn't great at seeing that.
 
 6. Complex numbers, complex exponentials, and complex integrals
 
@@ -27,3 +28,5 @@ A key part that I never really understood, mostly because I am mathematically la
   Really weird stuff happens with complex numbers when you perform simple operations on them.
 
 7. From Fourier Series to Fourier Transform
+
+  ![Alt text](https://user-images.githubusercontent.com/14359191/44192223-796ce480-a0e3-11e8-9643-17ba3c2d3a90.gif)
