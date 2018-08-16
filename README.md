@@ -13,6 +13,11 @@ A blog about my journey to learn Fourier algorithms and eventually implementing 
 
   A key part that I never really understood, mostly because I am mathematically lazy, is that complex representations of functions ARE STILL REAL.  The Complex Fourier Series breaks down the input function into a sum of exponentials with increasing frequency.  Even though there are imaginary numbers in the function, the resulting values are REAL.  I'm still a noob at imaginary numbers, so my intuition isn't great at seeing that.
 
+  Animations below show visualizations of the complex representation of sine and cosine functions.
+
+  ![Alt text](https://user-images.githubusercontent.com/14359191/44233744-8debc400-a159-11e8-8b9f-04b88e5ae5b0.gif)
+  ![Alt text](https://user-images.githubusercontent.com/14359191/44233746-8f1cf100-a159-11e8-99d6-87b6ad02e6db.gif)
+
 6. Complex numbers, complex exponentials, and complex integrals
 
   I always found it difficult to understand mathematics without a visual representation of what
